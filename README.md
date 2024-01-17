@@ -16,7 +16,7 @@
      <sup>✉</sup>Corresponding Author
 </div>
 <div>
-    <a href="https://github.com/z-x-yang/DoraemonGPT" target="_blank">arXiv 2024</a>
+    <a href="https://arxiv.org/abs/2401.08392" target="_blank">arXiv 2024</a>
 </div>
 
 <div style="width: 80%; text-align: center; margin:auto;">
