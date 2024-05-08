@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>DoraemonGPT<img style="width:3%" src="https://raw.githubusercontent.com/z-x-yang/DoraemonGPT/main/Sources/logo.png">: Toward Understanding Dynamic Scenes with Large Language Models</h1>
+<h1>DoraemonGPT<img style="width:3%" src="https://raw.githubusercontent.com/z-x-yang/DoraemonGPT/main/Sources/logo.png">: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent)</h1>
 
 <div>
     <a href="https://z-x-yang.github.io/" target="_blank">Zongxin Yang</a>&emsp;
@@ -16,7 +16,7 @@
      <sup>✉</sup>Corresponding Author
 </div>
 <div>
-    <a href="https://arxiv.org/abs/2401.08392" target="_blank">arXiv 2024</a>
+    <a href="https://arxiv.org/abs/2401.08392" target="_blank">ICML 2024 (arXiv Preprint)</a>
 </div>
 
 <div style="width: 80%; text-align: center; margin:auto;">
