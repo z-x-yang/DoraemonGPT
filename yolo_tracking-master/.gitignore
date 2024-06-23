@@ -1,0 +1,50 @@
+.vscode/
+.venv/
+.eggs/
+env/
+*.DS_Store
+.coverage
+htmlcov/
+# interpreter bytecode
+__pycache__/
+
+# experiment results
+runs/
+videos/
+
+# Downloaded weights
+weights/*.pt
+weights/*.torchscript
+weights/*.onnx
+weights/*_openvino_model
+weights/*.engine
+weights/*.tflite
+
+# evaluation tools folder
+val_utils/
+
+# zip files
+*.zip
+
+# exports
+*_openvino_model
+*.torchscript
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# interactive plots
+*.html
+
+# tf models
+*saved_model/
+tf_models/
+
+# distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# cmc debug images
+boxmot/motion/cmc/*.jpg

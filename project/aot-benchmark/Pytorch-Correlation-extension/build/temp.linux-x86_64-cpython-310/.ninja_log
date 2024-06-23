@@ -1,0 +1,10 @@
+# ninja log v5
+1	18476	1705652729381123511	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation_sampler.o	3b5b3a6f64e18605
+0	18531	1705652729437121535	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation.o	aa6795c45588ace7
+0	19716	1705652730629079515	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation_cuda_kernel.o	a5e737b367812758
+14	12050	1705686882696248809	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation_sampler.o	c14b7a1b901bbe9f
+14	12870	1705686883520229244	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation.o	832d968148bf88b7
+14	15299	1705686885956171483	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation_cuda_kernel.o	9b02c67189a7d9a0
+11	18280	1705689935023992555	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation.o	6a9a243d62c772ed
+12	18441	1705689935187999562	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation_sampler.o	42edfaa1addf1d80
+12	20021	1705689936772067205	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-cpython-310/Correlation_Module/correlation_cuda_kernel.o	67a099ad9bdf97e6

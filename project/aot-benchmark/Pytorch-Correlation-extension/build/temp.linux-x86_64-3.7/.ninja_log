@@ -1,0 +1,4 @@
+# ninja log v5
+0	19496	1705662295511394550	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-3.7/Correlation_Module/correlation_cuda_kernel.o	65bece304cc411d8
+0	25338	1705662301327408435	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-3.7/Correlation_Module/correlation_sampler.o	a5f74ce98940f013
+0	26622	1705662302619411516	/home/zongxin/works/icml/rvos/aot-benchmark/Pytorch-Correlation-extension/build/temp.linux-x86_64-3.7/Correlation_Module/correlation.o	da44c321822ce2ff

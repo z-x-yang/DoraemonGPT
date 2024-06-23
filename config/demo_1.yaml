@@ -1,0 +1,9 @@
+inference_config_path: "config/inference/inference.yaml"
+video_path: "videos/demo1.mp4"
+question: "Where are the people cycling?  Choose your answer from below selections: A.road, B.beach, C.auditorium, D.bus, E.living room."
+possible_anwsers: [A.road, B.beach, C.auditorium, D.bus, E.living room]
+skip_mem_build: False
+with_two_mem: True
+seed: 12345
+max_answer: 3
+max_try: 7
