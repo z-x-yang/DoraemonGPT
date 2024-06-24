@@ -1,4 +1,4 @@
-<h1>DoraemonGPT<img style="width:3%" src="https://raw.githubusercontent.com/z-x-yang/DoraemonGPT/main/Sources/logo.png">: Toward Understanding Dynamic Scenes with Large Language Models </br>(Exemplified as A Video Agent)</h1>
+<h1>DoraemonGPT<img style="width:3%" src="https://raw.githubusercontent.com/z-x-yang/DoraemonGPT/main/sources/logo.png">: Toward Understanding Dynamic Scenes with Large Language Models </br>(Exemplified as A Video Agent)</h1>
 
 <div>
     <a href="https://z-x-yang.github.io/" target="_blank">Zongxin Yang</a>&emsp;
@@ -21,7 +21,7 @@
 </div>
 
 <div style="width: 80%; text-align: center; margin:auto;">
-    <img style="width:100%" src="https://raw.githubusercontent.com/z-x-yang/DoraemonGPT/main/Sources/overview.png">
+    <img style="width:100%" src="https://raw.githubusercontent.com/z-x-yang/DoraemonGPT/main/sources/overview.png">
     <em>Overview. Given a video with a question/task, DoraemonGPT first extracts a Task-related Symbolic Memory, which has two types of memory for selection: space-dominant memory based on instances and time-dominant memory based on time frames/clips. The memory can be queried by sub-task tools, which are driven by LLMs with different prompts and generate symbolic language (i.e., SQL sentences) to do different reasoning. Also, other tools for querying external knowledge or utility tools are supported. For planning, DoraemonGPT employs the MCTS Planner to decompose the question into an action sequence by exploring multiple feasible N solutions, which can be further summarized into an informative answer.</em>
 </div>
 
@@ -179,6 +179,17 @@ Thanks to the authors of these open source projects for providing excellent proj
     - [MCG-NKU/E2FGVI: Official code for "Towards An End-to-End Framework for Flow-Guided Video Inpainting" (CVPR2022) (github.com)](https://github.com/MCG-NKU/E2FGVI "MCG-NKU/E2FGVI: Official code for \"Towards An End-to-End Framework for Flow-Guided Video Inpainting\" (CVPR2022) (github.com)")
 
 ***
+
+## Citations
+Please consider citing the related paper(s) in your publications if it helps your research.
+```
+@inproceedings{yang2024doraemongpt,
+  title={Doraemongpt: Toward understanding dynamic scenes with large language models (exemplified as a video agent)},
+  author={Yang, Zongxin and Chen, Guikun and Li, Xiaodi and Wang, Wenguan and Yang, Yi},
+  booktitle={Forty-first International Conference on Machine Learning}
+}
+```
+
 
 ## License 🏷️
 
