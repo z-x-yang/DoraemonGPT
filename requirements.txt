@@ -20,7 +20,7 @@ backoff==1.10.0
 bcrypt==4.1.3
 beautifulsoup4==4.12.3
 blendmodes==2024.1.1
--e git+https://github.com/z-x-yang/videogpt.git@33a81efb074893c01c188f836ac2ad082c6bb284#egg=boxmot&subdirectory=yolo_tracking-master
+-e git+http://github.com/z-x-yang/DoraemonGPT.git@de3a042f8e013975f569d6bfacbe7e650ed41773#egg=boxmot&subdirectory=yolo_tracking-master
 cachetools==5.3.1
 certifi==2023.7.22
 cffi==1.15.1
