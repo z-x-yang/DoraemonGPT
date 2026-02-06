@@ -179,7 +179,7 @@ prettytable==3.9.0
 proglog==0.1.10
 prompt-toolkit==3.0.39
 proto-plus==1.23.0
-protobuf==4.25.3
+protobuf==5.29.6
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
